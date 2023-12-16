@@ -2,4 +2,7 @@
 
 - This blog post covers just simple HTML and CSS
 
-- We created a hero section, content and footer.
+- We created a:
+  hero section.
+  content.
+  footer.
